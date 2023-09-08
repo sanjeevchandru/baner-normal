@@ -1,0 +1,67 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: "Poppins", sans-serif;
+	}
+	a{
+		text-decoration:none;
+	}
+	#baner-sec{
+		height:90vh;
+		background-color:#37517e;
+	}
+	.container{
+		width:85%;
+		margin:auto;
+	}
+	.baner-row{
+		display:flex;
+		padding:5% 0%;
+	}
+	.baner-col{
+		width:50%;
+	}
+	.baner-image img{
+		width:100%;
+	}
+	.baner-cont{
+		padding:20% 0%;
+		line-height:1.5;
+	}
+	.baner-cont h1{
+		font-size:50px;
+		color:#fff;
+	}
+	.baner-cont p{
+		font-size:25px;
+		color:#fff;
+	}
+	.baner-btn{
+		display:flex;
+		padding:40px 0px;
+	}
+	.baner-get a{
+		padding:15px 25px;
+		color:#fff;
+		background-color:#47b2e4;
+		border-radius:50px;
+	}
+	.baner-video{
+		padding-left:20px;
+	}
+	.baner-video a{
+		color:#fff;		
+	}
+	.baner-video i:hover{
+		color:#47b2e4;
+		border-color:#47b2e4;
+		cursor:pointer;
+	}
+		
+	.baner-video i{
+		padding:7px;
+		border:2px solid #fff;
+		border-radius:50%;
+		color:#fff;
+	}
